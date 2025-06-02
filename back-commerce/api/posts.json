@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Welcome to Fresh Juice Store",
+      "content": "Discover the healthiest and tastiest natural juices made fresh every day."
+    },
+    {
+      "id": 2,
+      "title": "New Tropical Flavors Available!",
+      "content": "Try our new mango and pineapple blends, perfect for summer vibes."
+    },
+    {
+      "id": 3,
+      "title": "Buy 2 Mango Juices, Get 1 Free!",
+      "content": "Don't miss our special offer, available this week only."
+    },
+    {
+      "id": 4,
+      "title": "Cold-Pressed vs. Regular Juice",
+      "content": "Learn why cold-pressed juice retains more nutrients and tastes better."
+    },
+    {
+      "id": 5,
+      "title": "Our Juicing Process",
+      "content": "We only use fresh, organic fruits—nothing artificial, ever."
+    },
+    {
+      "id": 6,
+      "title": "Customer Favorites",
+      "content": "Strawberry and Mixed Berry Juices are topping the charts this month!"
+    }
+  ]
+  

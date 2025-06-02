@@ -1,0 +1,33 @@
+[
+    {
+      "id": 201,
+      "name": "Orange Juice",
+      "price": 3.50
+    },
+    {
+      "id": 202,
+      "name": "Apple Juice",
+      "price": 3.20
+    },
+    {
+      "id": 203,
+      "name": "Pineapple Juice",
+      "price": 4.00
+    },
+    {
+      "id": 204,
+      "name": "Mango Juice",
+      "price": 4.50
+    },
+    {
+      "id": 205,
+      "name": "Strawberry Juice",
+      "price": 4.25
+    },
+    {
+      "id": 206,
+      "name": "Mixed Berry Juice",
+      "price": 4.75
+    }
+  ]
+  
