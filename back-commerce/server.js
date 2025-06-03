@@ -1,4 +1,5 @@
 import express from 'express'
+import cors from 'cors';
 
 const app = express();
 const port = 3000;
@@ -57,6 +58,12 @@ const posts = [
     } 
 ]
 
+
+// Middleware
+app.use(cors()); // permet connexió entre React i Express
+
+
+// Rutes
 app.get('/users', async (req,res)=> {
   console.log("users endpoint /GET received 😀")
   try{
@@ -90,6 +97,8 @@ app.get('/products', async (req,res)=> {
     }
   })
 
+
+// Iniciar servidor
 app.listen(port, ()=> {
     console.log(`Server listening at http://localhost:${port}`)
 })

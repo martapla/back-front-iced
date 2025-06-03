@@ -1,10 +1,17 @@
+import PostsList from "./components/PostsList"
+import ProductsTable from "./components/ProductsTable"
 
 function App() {
   
 
   return (
     <>
-      <h1>Ice Creams Season</h1>
+      <h1>Connecting 🥷🏼 Back 🔌 Front</h1>
+
+      <div>
+        <PostsList />
+        <ProductsTable />
+      </div>
     </>
   )
 }
